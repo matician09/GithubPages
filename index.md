@@ -6,9 +6,11 @@
 1. [`pages-themes/cayman`](https://github.com/pages-themes/cayman)의 `_layouts/default.html` 확인  
     
     ```html
+    {% raw %}
     <!DOCTYPE html>
     <html lang="{{ site.lang | default: "en-US" }}">
     <head>
+    {% endraw %}
     ```  
 1. `site.lang` 설정을 위해 `_config.yml` 파일에 `lang: ko` 추가  
 
