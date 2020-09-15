@@ -4,6 +4,7 @@
 ### 2020-09-16
 #### 한국어 설정
 1. [`pages-themes/cayman`](https://github.com/pages-themes/cayman)의 `_layouts/default.html` 확인  
+    
     ```html
     <!DOCTYPE html>
     <html lang="{{ site.lang | default: "en-US" }}">
