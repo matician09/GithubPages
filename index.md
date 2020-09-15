@@ -24,6 +24,5 @@
 레퍼런스: [Github Pages](https://pages.github.com/)
 
 ## Future Works
-- Google Analytics  
 - Facebook Comments Plugin  
 - Google Ad  
