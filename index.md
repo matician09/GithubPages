@@ -13,7 +13,7 @@
 1. `site.lang` 설정을 위해 `_config.yml` 파일에 `lang: ko` 추가  
 
 #### Google Analytics
-1. [Google Analytics](http://anlytics.google.com)에서 추적 ID 발급  
+1. [Google Analytics](https://analytics.google.com)에서 추적 ID 발급  
 1. `_config.yml`파일에 `google_analytics: [my ID]` 추가  
 
 ### 2020-09-14
@@ -21,7 +21,7 @@
 1. `Settings` → `Theme Chooser` → `Select theme`  
 1. `index.md` 편집 후 `Commit changes`  
 
-레퍼런스: [Github Pages](https://pages.github.com/)
+레퍼런스: [Github Pages](https://pages.github.com)
 
 ## Future Works
 - `page.title` and `page.description` 추가  
