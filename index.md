@@ -8,8 +8,6 @@
     <!DOCTYPE html>
     <html lang="{{ site.lang | default: "en-US" }}">
     <head>
-
-        {% if site.google_analytics %}
     ```  
 1. `site.lang` 설정을 위해 `_config.yml` 파일에 `lang: ko` 추가  
 #### Google Analytics
