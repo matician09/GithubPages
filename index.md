@@ -24,5 +24,6 @@
 레퍼런스: [Github Pages](https://pages.github.com/)
 
 ## Future Works
+- `page.title` and `page.description` 추가  
 - Facebook Comments Plugin  
 - Google Ad  
