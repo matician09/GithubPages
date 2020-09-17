@@ -1,6 +1,14 @@
 # Github Pages 구축 방법
 
 ## WorkLog
+### 2020-09-17
+#### Facebook 댓글 플러그인
+1. Facebook 개발자 계정 생성  
+1. 새로운 `앱 만들기`를 통해 앱 생성  
+1. 하단 [레퍼런스](https://developers.facebook.com/docs/plugins/comments) 참조하여, `index.md` 원하는 위치에 코드 추가  
+
+레퍼런스: [Facebook 문서](https://developers.facebook.com/docs/plugins/comments)
+
 ### 2020-09-16
 #### 한국어 설정
 1. [`pages-themes/cayman`](https://github.com/pages-themes/cayman)의 `_layouts/default.html` 확인  
@@ -23,13 +31,14 @@
 
 레퍼런스: [Github Pages](https://pages.github.com)
 
+---
+
 ## Future Works
 - `page.title` and `page.description` 추가  
-- Facebook Comments Plugin  
 - Google Ad  
 
 ---
 
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v8.0&appId=347894753016508&autoLogAppEvents=1" nonce="WKhI0Tuu"></script>
-<div class="fb-comments" data-href="https://matician09.github.io/GithubPages/" data-numposts="5" data-width=""></div>
+<div class="fb-comments" data-href="https://matician09.github.io/GithubPages/" data-numposts="5" data-width="100%"></div>
