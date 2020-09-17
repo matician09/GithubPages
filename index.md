@@ -1,5 +1,7 @@
 # Github Pages 구축 방법
 
+---
+
 ## WorkLog
 ### 2020-09-17
 #### Facebook 댓글 플러그인
@@ -38,6 +40,8 @@
 - Google Ad  
 
 ---
+
+## Comments
 
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v8.0&appId=347894753016508&autoLogAppEvents=1" nonce="WKhI0Tuu"></script>
