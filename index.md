@@ -27,3 +27,9 @@
 - `page.title` and `page.description` 추가  
 - Facebook Comments Plugin  
 - Google Ad  
+
+---
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v8.0&appId=347894753016508&autoLogAppEvents=1" nonce="WKhI0Tuu"></script>
+<div class="fb-comments" data-href="https://matician09.github.io/GithubPages/" data-numposts="5" data-width=""></div>
