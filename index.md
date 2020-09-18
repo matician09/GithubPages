@@ -38,6 +38,7 @@
 ## Future Works
 - `page.title` and `page.description` 추가  
 - Google Ad  
+- Facebook 댓글 플러그인 macosx safari 가변폭 설정  
 
 ---
 
