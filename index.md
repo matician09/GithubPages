@@ -45,5 +45,5 @@
 ## Comments
 
 <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v8.0&appId=347894753016508&autoLogAppEvents=1" nonce="feX6AKNC"></script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v8.0&appId=347894753016508&autoLogAppEvents=1" nonce="kxxHfSEz"></script>
 <div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-numposts="5" data-width=""></div>
