@@ -45,5 +45,5 @@
 ## Comments
 
 <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v8.0&appId=347894753016508&autoLogAppEvents=1" nonce="B1UcFOX8"></script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v8.0&appId=347894753016508&autoLogAppEvents=1" nonce="I00e3BB7"></script>
 <div class="fb-comments" data-href="https://matician09.github.io/GithubPages/" data-numposts="5" data-width=""></div>
