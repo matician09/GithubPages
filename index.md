@@ -3,6 +3,12 @@
 ---
 
 ## WorkLog
+### 2020-09-20
+#### `title` & `description` 설정
+1. `_config.yml` 파일에 `title: ` 및 `description: ` 추가  
+
+레퍼런스: [Cayman](https://github.com/pages-themes/cayman)
+
 ### 2020-09-17
 #### Facebook 댓글 플러그인
 1. Facebook 개발자 계정 생성  
@@ -36,7 +42,6 @@
 ---
 
 ## Future Works
-- `page.title` and `page.description` 추가  
 - Google Ad  
 
 ---
